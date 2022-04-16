@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Početna strana"
+        ></item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Odjavi se"></item>
+
+</menu>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/buttonbackground.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/cardbackground.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/ic_baseline_flag_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/list_item_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/malefemalefocus.xml" value="0.2703125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/malefemalefocuse.xml" value="0.815625" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/malefemalenotfocus.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/drawable/plusminus.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-large/activity_bmicalc.xml" value="0.32770022042615726" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-large/activity_home.xml" value="0.2375" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-large/activity_registracija.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-large/activity_trening_days.xml" value="0.190625" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-large/activity_trening_vrste.xml" value="0.61" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_bmicalc.xml" value="0.8929961089494164" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_dorucak_detail.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_home.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_registracija.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_rucak_detail.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_trening_vrste.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout-sw600dp/activity_vecera_detail.xml" value="0.38125" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_bmi.xml" value="0.264" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_bmi_done.xml" value="0.264" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_bmicalc.xml" value="0.264" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_breakfast.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_dorucak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_dorucak_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_hrana.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_ishrana.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_koraci.xml" value="0.264" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_licni_podaci.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_lokacija.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_obavestenje.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_proba.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_registracija.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_rucak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_rucak_detail.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_trening_days.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_trening_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_trening_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_trening_vrste.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_vecera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_vecera_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/activity_workouts.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/card_dorucak.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/card_slika.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/course_rv_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/dialog_fragment_bmi.xml" value="0.1" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/dialog_fragment_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/dialog_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/dodaj_obrok.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/dorucak_view.xml" value="0.1" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/fragment_obrok_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/fragment_trening_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/fragment_trening_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/fragment_trening_list_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/hrana.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/jelo.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/list_item.xml" value="0.16" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/layout/workout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Sara/AndroidStudioProjects/Projekat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

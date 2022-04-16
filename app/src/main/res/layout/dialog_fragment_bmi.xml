@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="345dp"
+        android:layout_height="484dp"
+        android:background="@drawable/background"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lakki_reddy"
+            android:text="@string/tvoj_bmi_je"
+            android:textColor="#0A5750"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/rezultat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lakki_reddy"
+            android:text=""
+            android:textColor="#0A5750"
+            android:textSize="30sp" />
+
+
+        <TextView
+            android:id="@+id/rezOpis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lakki_reddy"
+            android:text=""
+            android:textColor="#0A5750"
+            android:textSize="20sp" />
+
+
+        <Button
+            android:id="@+id/btnNazad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#5FAAA3"
+            android:fontFamily="@font/amiko"
+            android:text="POČETNA STRANA"
+            android:textColor="#3E2723" />
+
+    </LinearLayout>
+
+</LinearLayout>

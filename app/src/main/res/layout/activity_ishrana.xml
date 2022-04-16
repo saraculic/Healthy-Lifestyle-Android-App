@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/hrana_pozadina"
+    tools:context=".IshranaActivity"
+    android:gravity="center" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/lakki_reddy"
+        android:text="Ishrana"
+        android:textSize="30dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/dorucak" >
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <Button
+            android:id="@+id/btndorucak"
+            android:layout_width="180dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fde396"
+            android:fontFamily="@font/amiko"
+            android:text="@string/dorucak"
+            android:textColor="#322006"></Button>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/rucak" >
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <Button
+            android:id="@+id/btnrucak"
+            android:layout_width="180dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#FDE396"
+            android:fontFamily="@font/amiko"
+            android:text="Ručak"
+            android:textColor="#322006"></Button>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/vecera" >
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+        <Button
+            android:id="@+id/btnvecera"
+            android:layout_width="180dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="#fde396"
+            android:fontFamily="@font/amiko"
+            android:text="Večera"
+            android:textColor="#322006"></Button>
+
+    </LinearLayout>
+
+
+</LinearLayout>

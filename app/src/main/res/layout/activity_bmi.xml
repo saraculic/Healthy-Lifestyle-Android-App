@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:padding="40dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amiko"
+        android:gravity="center"
+        android:text="@string/tekst1"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/amiko"
+        android:gravity="center"
+        android:text="@string/tekst2"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:fontFamily="@font/amiko"
+        android:gravity="center"
+        android:text="@string/tekst3"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/btnpozovi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#72ACA6"
+        android:fontFamily="@font/amiko"
+        android:text="@string/pozovi"
+        android:textColor="#4A148C"
+        tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+
+    <Button
+        android:id="@+id/btnBMI"
+        android:layout_width="140dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#72ACA6"
+        android:fontFamily="@font/amiko"
+        android:text="@string/izracunajBMI"
+        android:textColor="#4A148C"
+        tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+</LinearLayout>

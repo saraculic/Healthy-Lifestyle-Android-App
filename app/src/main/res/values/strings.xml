@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Zdrav život</string>
+    <string name="datum_rodjenja">Datum rođenja:</string>
+    <string name="zenski">Ženski</string>
+    <string name="muski">Muški</string>
+    <string name="pol">Pol:</string>
+    <string name="prezime">Prezime:</string>
+    <string name="ime">Ime:</string>
+    <string name="tezina">Težina:</string>
+    <string name="visina">Visina:</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+
+    <string-array name="options">
+        <item>BMI kalkulator</item>
+        <item>Ishrana</item>
+        <item>Treniranje</item>
+        <item>Koraci</item>
+        <item>Hidratacija</item>
+    </string-array>
+
+    <string-array name="ishrana">
+        <item>Doručak</item>
+        <item>Ručak</item>
+        <item>Večera</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nazad">NAZAD</string>
+    <string name="sacuvaj">Sačuvaj</string>
+    <string name="koraci">Koraci</string>
+    <string name="zapocni_brojanje">zapocni_brojanje</string>
+    <string name="obavestenje">HIDRATACIJA</string>
+    <string name="poruka">Vreme je da piješ vodu!</string>
+    <string name="ukljuci_obavestenja">UKLJUČI OBAVEŠTENJA</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="zaboravili_ste_sifru">Zaboravili ste šifru?</string>
+    <string name="registruj_se">Registruj se</string>
+    <string name="registration">Registration</string>
+    <string name="bmi_kalkulator">BMI kalkulator</string>
+    <string name="tvoj_bmi_je">Tvoj BMI je:</string>
+    <string name="izracunajponovo">Izračunaj ponovo</string>
+    <string name="izracunaj_bmi">Izračunaj BMI</string>
+    <string name="cm">cm</string>
+    <string name="_55">55</string>
+    <string name="_170">170</string>
+    <string name="godine">Godine</string>
+    <string name="_22">22</string>
+    <string name="pozovi">Pozovi</string>
+    <string name="tekst1">Znate li koja je vaša idealna telesna masa? Indeks telesne mase (engl. Body Mass Index, BMI) pomaže vam kod određivanja idealne težine.</string>
+    <string name="tekst2">Naš kalkulator BMI-a može s obzirom na vaše godine i pol odrediti vrednost koja vam daje informacije o tome imate li normalnu telesnu težinu ili ne.</string>
+    <string name="tekst3">Ako kao rezultat izračunavanja dobijete ekstremne vrednosti, posavetujte sa našim stručnjakom dr. Ivan Ivanović.</string>
+    <string name="izracunajBMI">Izračunaj BMI</string>
+    <string name="dorucak">Duručak</string>
+    <string name="workout_name">Workout name</string>
+    <string name="izvodjenje_vezbi">Pravilno izvođenje vežbi</string>
+    <string name="tekst_muzika">Muzika Vam ponekad šetnju može učiniti lakšom jer umanjuje Vaše opažanje napora dok dugo šetate za oko 10 procenata. Eksterni stimulans kao što je muzika zapravo može blokirati neke od unutrašnjih stimulansa koji pokušavaju da dopru do mozga – kao što su poruke u vezi sa zamorom mišića i drugih organa. Učinite vaše brojanje koraka zanimljivijim i uživajte uz pesme koje smo Vam pripremili.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="o_aplikaciji">Ovo je aplikacija koja će Vam pomoći da steknete zdrave navike. Daje Vam predloge zdrave ishrane, organizuje treninge za određeni deo tela i pomaže Vam da pratite svoj indeks telesne mase. Pored toga, može brojati korake koje pređete i omogućava Vam da slušate muziku uz to ako želite. Obaveštava Vas kada je vereme za hidrataciju i daje predlog teretane u kojoj možete trenirati.</string>
+
+
+</resources>
